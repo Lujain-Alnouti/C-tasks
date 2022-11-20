@@ -1,0 +1,8 @@
+C:\Users\Orange\source\repos\cSharp-week1\cSharp-week1\bin\Debug\cSharp-week1.exe.config
+C:\Users\Orange\source\repos\cSharp-week1\cSharp-week1\bin\Debug\cSharp-week1.exe
+C:\Users\Orange\source\repos\cSharp-week1\cSharp-week1\bin\Debug\cSharp-week1.pdb
+C:\Users\Orange\source\repos\cSharp-week1\cSharp-week1\obj\Debug\cSharp-week1.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\cSharp-week1\cSharp-week1\obj\Debug\cSharp-week1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orange\source\repos\cSharp-week1\cSharp-week1\obj\Debug\cSharp-week1.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\cSharp-week1\cSharp-week1\obj\Debug\cSharp-week1.exe
+C:\Users\Orange\source\repos\cSharp-week1\cSharp-week1\obj\Debug\cSharp-week1.pdb
