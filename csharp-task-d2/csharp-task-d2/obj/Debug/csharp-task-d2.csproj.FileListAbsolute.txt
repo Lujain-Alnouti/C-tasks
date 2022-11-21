@@ -1,0 +1,8 @@
+C:\Users\Orange\source\repos\csharp-task-d2\csharp-task-d2\bin\Debug\csharp-task-d2.exe.config
+C:\Users\Orange\source\repos\csharp-task-d2\csharp-task-d2\bin\Debug\csharp-task-d2.exe
+C:\Users\Orange\source\repos\csharp-task-d2\csharp-task-d2\bin\Debug\csharp-task-d2.pdb
+C:\Users\Orange\source\repos\csharp-task-d2\csharp-task-d2\obj\Debug\csharp-task-d2.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\csharp-task-d2\csharp-task-d2\obj\Debug\csharp-task-d2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orange\source\repos\csharp-task-d2\csharp-task-d2\obj\Debug\csharp-task-d2.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\csharp-task-d2\csharp-task-d2\obj\Debug\csharp-task-d2.exe
+C:\Users\Orange\source\repos\csharp-task-d2\csharp-task-d2\obj\Debug\csharp-task-d2.pdb
