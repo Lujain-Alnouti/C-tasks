@@ -1,0 +1,8 @@
+C:\Users\Orange\source\repos\cSharp-23-11-tasks\cSharp-23-11-tasks\bin\Debug\cSharp-23-11-tasks.exe.config
+C:\Users\Orange\source\repos\cSharp-23-11-tasks\cSharp-23-11-tasks\bin\Debug\cSharp-23-11-tasks.exe
+C:\Users\Orange\source\repos\cSharp-23-11-tasks\cSharp-23-11-tasks\bin\Debug\cSharp-23-11-tasks.pdb
+C:\Users\Orange\source\repos\cSharp-23-11-tasks\cSharp-23-11-tasks\obj\Debug\cSharp-23-11-tasks.csproj.AssemblyReference.cache
+C:\Users\Orange\source\repos\cSharp-23-11-tasks\cSharp-23-11-tasks\obj\Debug\cSharp-23-11-tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\Orange\source\repos\cSharp-23-11-tasks\cSharp-23-11-tasks\obj\Debug\cSharp-23-11-tasks.csproj.CoreCompileInputs.cache
+C:\Users\Orange\source\repos\cSharp-23-11-tasks\cSharp-23-11-tasks\obj\Debug\cSharp-23-11-tasks.exe
+C:\Users\Orange\source\repos\cSharp-23-11-tasks\cSharp-23-11-tasks\obj\Debug\cSharp-23-11-tasks.pdb
